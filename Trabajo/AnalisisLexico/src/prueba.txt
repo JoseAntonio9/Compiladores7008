@@ -1,0 +1,4 @@
+variable ::= 25 + 12 + x
+real ::= 123.45
+suma := x + y
+
